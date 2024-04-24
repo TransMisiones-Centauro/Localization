@@ -1,0 +1,3 @@
+[submodule "hku-mars_FAST_LIO"]
+	path = hku-mars_FAST_LIO
+	url = https://github.com/TransMisiones-Centauro/hku-mars_FAST_LIO.git
