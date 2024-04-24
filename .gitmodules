@@ -4,3 +4,6 @@
 [submodule "FAST_LIO_SLAM_ros2"]
 	path = FAST_LIO_SLAM_ros2
 	url = https://github.com/TransMisiones-Centauro/FAST_LIO_SLAM_ros2.git
+[submodule "FAST_LIO_ROS2"]
+	path = FAST_LIO_ROS2
+	url = https://github.com/TransMisiones-Centauro/FAST_LIO_ROS2.git
