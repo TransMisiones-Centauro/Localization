@@ -2,7 +2,7 @@
 
 ## 3D LiDAR
 
-* [KISS-ICP](https://github.com/TransMisiones-Centauro/kiss-icp)
+* [KISS-ICP](https://github.com/TransMisiones-Centauro/kiss-icp) ([paper](https://ieeexplore.ieee.org/document/10015694))
 
 * FAST LIO
   * [fast_lio_ros2](https://github.com/TransMisiones-Centauro/FAST_LIO_ROS2/pkgs/container/fast_lio_ros2)
