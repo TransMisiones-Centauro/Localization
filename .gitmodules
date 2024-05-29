@@ -13,3 +13,12 @@
 [submodule "Point-LIO"]
 	path = Point-LIO
 	url = https://github.com/TransMisiones-Centauro/Point-LIO.git
+[submodule "kiss-icp"]
+	path = kiss-icp
+	url = https://github.com/TransMisiones-Centauro/kiss-icp.git
+[submodule "Simple-2D-LiDAR-Odometry"]
+	path = Simple-2D-LiDAR-Odometry
+	url = https://github.com/TransMisiones-Centauro/Simple-2D-LiDAR-Odometry.git
+[submodule "rf2o_laser_odometry"]
+	path = rf2o_laser_odometry
+	url = https://github.com/TransMisiones-Centauro/rf2o_laser_odometry.git
