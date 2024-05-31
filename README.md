@@ -29,3 +29,4 @@
 * RTAB-Map
   * [Real-Time Appearance-Based Mapping](https://introlab.github.io/rtabmap/)
   * [Example with DepthAI OAK-D](https://wiki.ros.org/rtabmap_ros/Tutorials/StereoHandHeldMapping#Bring-up_example_with_DepthAI_OAK-D)
+  * [Example with Zed/Zed-Mini/Zed2 cameras](https://wiki.ros.org/rtabmap_ros/Tutorials/StereoHandHeldMapping#Bring-up_example_with_Zed.2FZed-Mini.2FZed2_cameras)
