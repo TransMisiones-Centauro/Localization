@@ -23,3 +23,9 @@
 * [Simple-2D-LiDAR-Odometry](https://github.com/TransMisiones-Centauro/Simple-2D-LiDAR-Odometry)
 * [rf2o_laser_odometry](https://github.com/TransMisiones-Centauro/rf2o_laser_odometry)
 * [Does kiss-ICP work with 2D LIDARs ?](https://github.com/PRBonn/kiss-icp/issues/37)
+
+# SLAM
+
+* RTAB-Map
+  * [Real-Time Appearance-Based Mapping](https://introlab.github.io/rtabmap/)
+  * [Example with DepthAI OAK-D](https://wiki.ros.org/rtabmap_ros/Tutorials/StereoHandHeldMapping#Bring-up_example_with_DepthAI_OAK-D)
