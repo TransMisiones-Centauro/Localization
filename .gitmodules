@@ -22,3 +22,6 @@
 [submodule "rf2o_laser_odometry"]
 	path = rf2o_laser_odometry
 	url = https://github.com/TransMisiones-Centauro/rf2o_laser_odometry.git
+[submodule "GLO"]
+	path = GLO
+	url = https://github.com/TransMisiones-Centauro/GLO
