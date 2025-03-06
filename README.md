@@ -12,6 +12,9 @@
 * Point-LIO
   * [Point-LIO for Unitree Lidar L1](https://github.com/TransMisiones-Centauro/point_lio_unilidar)
   * [ROS2 version of Point-LIO](https://github.com/TransMisiones-Centauro/Point-LIO/tree/ros2)
+ 
+* GLO
+  * [GLO - General LiDAR-only Odometry](https://github.com/TransMisiones-Centauro/GLO) ([paper](https://ieeexplore.ieee.org/document/10891038))
 
 ## Visual
 
